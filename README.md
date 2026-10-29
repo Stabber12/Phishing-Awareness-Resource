@@ -1,2 +1,2 @@
 # Phishing-Awareness-Resource
-A guide to notify people about phishing and how to avoid and report it
+A cybersecurity awareness project that teaches users how to identify and prevent phishing attacks
